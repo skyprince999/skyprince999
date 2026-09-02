@@ -10,7 +10,7 @@ I build AI solutions for the next billion users — from enterprise data-first s
 
 - 🧠 12+ years in data science, machine learning, and cloud computing
 - 🏢 Running [Think Evolve Labs](https://www.thinkevolveconsulting.com/resources/case-studies-articles/), a boutique data science consultancy for enterprises and startups
-- 💼 Formerly VP of Data Science at Edelweiss Financial Services — 40+ AI/ML proof-of-concepts, ₹1.5 Cr+ quarterly cost savings
+- 💼 Formerly VP of Data Science at Edelweiss Financial Services — 40+ AI/ML proof-of-concepts, ₹1.5 Cr+ quarterly cost savings, Anti-Money Laundering(AML) Triage
 - 📜 US Patent holder (US11430236B1) — segmented numeral character recognition
 - 🤝 Contributor at **MLCommons** — co-author of the *Agentic Product Maturity Ladder* and *LLM Jailbreak Benchmark* (AILuminate Security)
 - 🎓 PGDM (Finance), IIM Indore · BE (Electronics), University of Pune
