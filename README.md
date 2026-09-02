@@ -47,7 +47,7 @@ I build AI solutions for the next billion users — from enterprise data-first s
 
 ## 🌱 Community & Volunteering
 
-- Mentor, **Desh Ke Mentor** (Delhi Government)
+- Scientific Reviewer, OpenReview 
 - Team Lead (Volunteer), **CoronaWhy** — ML on 250M+ tweets for COVID misinformation detection
 - Volunteer Teacher, **Teach India** (Times of India)
 
