@@ -8,7 +8,6 @@ I build AI solutions for the next billion users — from enterprise data-first s
 
 ## 🚀 About Me
 
-- 🧠 12+ years in data science, machine learning, and cloud computing
 - 🏢 Running [Think Evolve Labs](https://www.thinkevolveconsulting.com/resources/case-studies-articles/), an award winning DPIIT recognized AI startup with deep expertise in building and deploying LLMs and enterprise agentic deployments
 - 💼 Formerly VP of Data Science at Edelweiss Financial Services — Set up AI CoE, 40+ AI/ML proof-of-concepts, ₹1.5 Cr+ quarterly cost savings, Anti-Money Laundering(AML) Triage, Top 3% and part of Business Leadership Program
 - 📜 US Patent holder (US11430236B1) — segmented numeral character recognition
