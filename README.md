@@ -1,6 +1,6 @@
 # Hi there, I'm Aakash Gupta 👋
 
-**CEO & Co-Founder @ Think Evolve Labs | Data Scientist | US Patent Holder | LinkedIn Top Voice**
+**CEO & Co-Founder @ Think Evolve Labs | Data Scientist | US Patent Holder | LinkedIn Top Voice 2025-26**
 
 I build AI solutions for the next billion users — from enterprise data-first strategies to AI for wildlife conservation and sustainability.
 
@@ -22,6 +22,8 @@ I build AI solutions for the next billion users — from enterprise data-first s
 - 🛰️ **ESA COVID-19 Custom Script Competition Winner** (2020)
 - 📊 **Kaggle COVID-19 Dataset Challenge** — 3rd place
 - 🎤 Presented at the **Global AI Summit Hyderabad** and **MeitY (IndiaAI mission)**; panelist at **NASSCOM NASTECH** on AI for Biodiversity
+- 🎤 Presented at TREC/NIST VQA 18th Nov 2026
+- 🎤 Presented on Emerging [Emerging Trends in Agentic Evaluation](https://think-evolve-consulting.github.io/emerging-trends-agentic-evaluation/)
 
 ## 🔧 Areas of Expertise
 
